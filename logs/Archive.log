@@ -1,0 +1,30 @@
+2022-06-04T08:33:38.805Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T08:33:38.807Z : [info] : Connecting to DB...
+2022-06-04T08:33:39.039Z : [info] : smartbottle connected.
+2022-06-04T08:43:32.125Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T08:43:32.127Z : [info] : Connecting to DB...
+2022-06-04T08:43:32.330Z : [info] : smartbottle connected.
+2022-06-04T08:45:09.427Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T08:45:09.434Z : [info] : Connecting to DB...
+2022-06-04T08:45:09.833Z : [info] : smartbottle connected.
+2022-06-04T08:45:21.146Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T08:45:21.148Z : [info] : Connecting to DB...
+2022-06-04T08:45:21.595Z : [info] : smartbottle connected.
+2022-06-04T09:04:27.406Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T09:04:27.408Z : [info] : Connecting to DB...
+2022-06-04T09:04:27.628Z : [info] : smartbottle connected.
+2022-06-04T09:04:41.535Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T09:04:41.537Z : [info] : Connecting to DB...
+2022-06-04T09:04:41.742Z : [info] : smartbottle connected.
+2022-06-04T09:14:51.900Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T09:14:51.902Z : [info] : Connecting to DB...
+2022-06-04T09:14:52.125Z : [info] : smartbottle connected.
+2022-06-04T09:22:50.191Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T09:22:50.193Z : [info] : Connecting to DB...
+2022-06-04T09:22:50.395Z : [info] : smartbottle connected.
+2022-06-04T09:29:17.561Z : [info] : Printing process env attributes : 194.233.67.136, smartbottle, ms, Ms@2021,  postgres
+2022-06-04T09:29:17.563Z : [info] : Connecting to DB...
+2022-06-04T09:29:17.752Z : [info] : smartbottle connected.
+2022-06-04T09:29:35.292Z : [info] : Device data {"dataId":"1","deviceId":"1","device_data":"ahshsjha","date":"2002-02-01T00:00:00.000Z","time":"15:39:27","updatedAt":"2022-06-04T09:29:35.126Z","createdAt":"2022-06-04T09:29:35.126Z"} saved
+2022-06-04T09:29:57.998Z : [info] : Device data {"dataId":"2","deviceId":"2","device_data":"ahshsjha","date":"2002-02-03T00:00:00.000Z","time":"14:39:27","updatedAt":"2022-06-04T09:29:57.922Z","createdAt":"2022-06-04T09:29:57.922Z"} saved
+2022-06-04T09:30:06.924Z : [info] : Device data {"dataId":"3","deviceId":"3","device_data":"ahshsjha","date":"2002-03-03T00:00:00.000Z","time":"14:39:27","updatedAt":"2022-06-04T09:30:06.818Z","createdAt":"2022-06-04T09:30:06.818Z"} saved
